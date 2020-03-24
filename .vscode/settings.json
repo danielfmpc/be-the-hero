@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "${workspaceFolder}\\backenbd/src/database/db.sqlite",
+      "dialect": "SQLite",
+      "name": "db"
+    },
+    {
+      "database": ".\\backenbd/src/database/db.sqlite",
+      "dialect": "SQLite",
+      "isActive": true,
+      "isConnected": true,
+      "name": "db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
